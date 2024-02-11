@@ -1,5 +1,5 @@
 trigger:
-- 'main'
+- '*'
 //My Test commit
 pool:
   vmImage: ubuntu-latest
